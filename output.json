@@ -1,0 +1,453 @@
+{
+  "id": "SCDIN1BJ:180802082",
+  "Operating hours of the interior fan 1, in h": {
+    "first": 26875.53,
+    "last": 26875.78,
+    "min": 26875.53,
+    "max": 26875.78,
+    "mean": 26875.650116,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Operating hours of the interior fan 2, in h": {
+    "first": 26503.29,
+    "last": 26503.54,
+    "min": 26503.29,
+    "max": 26503.54,
+    "mean": 26503.415864,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Operating hours of the interior fan 3, in h": {
+    "first": 0,
+    "last": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Operating hours of the heat sink fan, in h": {
+    "first": 29554.8,
+    "last": 29555.05,
+    "min": 29554.8,
+    "max": 29555.05,
+    "mean": 29554.924966,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Number of GFDI trippings": {
+    "first": 6,
+    "last": 6,
+    "min": 6,
+    "max": 6,
+    "mean": 6,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Operating hours of the heating element 2, in h": {
+    "first": 0,
+    "last": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Country setting or configured standard": {
+    "first": 22,
+    "last": 22,
+    "min": 22,
+    "max": 22,
+    "mean": 22,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Status of the remote shutdown unit": {
+    "first": 1,
+    "last": 1,
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Status of GFDI": {
+    "first": 2,
+    "last": 2,
+    "min": 2,
+    "max": 2,
+    "mean": 2,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Status of key switch": {
+    "first": 2,
+    "last": 2,
+    "min": 2,
+    "max": 2,
+    "mean": 2,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "State of the signal light": {
+    "first": 1,
+    "last": 1,
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Measure for error correction": {
+    "first": 0,
+    "last": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Date": {
+    "first": 20240517,
+    "last": 20240517,
+    "min": 20240517,
+    "max": 20240517,
+    "mean": 20240517,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Error number": {
+    "first": 0,
+    "last": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Error number of the first error": {
+    "first": 6404,
+    "last": 6404,
+    "min": 6404,
+    "max": 6404,
+    "mean": 6404,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Localization of the error": {
+    "first": 0,
+    "last": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Total energy fed into the grid, in kWh": {
+    "first": 5046928.3,
+    "last": 5047008.1,
+    "min": 5046928.3,
+    "max": 5047008.1,
+    "mean": 5046968.269796,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "External current measurement in mA": {
+    "first": 0.117,
+    "last": 0.117,
+    "min": 0.117,
+    "max": 0.117,
+    "mean": 0.117,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "External voltage measurement in V": {
+    "first": -0.006,
+    "last": -0.005,
+    "min": -0.007,
+    "max": -0.004,
+    "mean": -0.005973,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Power frequency in Hz": {
+    "first": 49.98,
+    "last": 49.96,
+    "min": 49.92,
+    "max": 50.06,
+    "mean": 49.985061,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "State of the AC disconnection unit": {
+    "first": 2,
+    "last": 2,
+    "min": 2,
+    "max": 2,
+    "mean": 2,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Operating hours at high DC voltage": {
+    "first": 0,
+    "last": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Operating hours (feed-in time and waiting time) of the inverter, in h": {
+    "first": 66007.31,
+    "last": 66007.56,
+    "min": 66007.31,
+    "max": 66007.56,
+    "mean": 66007.435741,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Feed-in hours (feed-in time without waiting time) of the inverter, in h": {
+    "first": 30631.34,
+    "last": 30631.59,
+    "min": 30631.34,
+    "max": 30631.59,
+    "mean": 30631.464061,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Grid current in Ampere": {
+    "first": 709,
+    "last": 679.6,
+    "min": 679.1,
+    "max": 721.1,
+    "mean": 698.054694,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "PV current in Ampere": {
+    "first": 592.6,
+    "last": 566.6,
+    "min": 558,
+    "max": 606.2,
+    "mean": 579.466939,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Operating state of the inverter": {
+    "first": 1,
+    "last": 1,
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Error message": {
+    "first": 0,
+    "last": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "AC power in kW": {
+    "first": 323.4,
+    "last": 312.3,
+    "min": 311.1,
+    "max": 329.1,
+    "mean": 319.691633,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Current displacement power factor cos φ": {
+    "first": 1,
+    "last": 1,
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Degree of overexcitation or underexcitation.": {
+    "first": 1,
+    "last": 1,
+    "min": 1,
+    "max": 2,
+    "mean": 1.002041,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "PV power in kW": {
+    "first": 340,
+    "last": 328.3,
+    "min": 326.5,
+    "max": 345.9,
+    "mean": 335.877619,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Priority of error message": {
+    "first": 1,
+    "last": 1,
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Errors and warnings relating to active power limitation": {
+    "first": 1,
+    "last": 1,
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Current power specification (Active Power limit)": {
+    "first": 550,
+    "last": 550,
+    "min": 550,
+    "max": 550,
+    "mean": 550,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Reactive power in kVAr": {
+    "first": 0.4,
+    "last": 0.3,
+    "min": -0.7,
+    "max": 1,
+    "mean": 0.383469,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Errors and warnings relating to the reactive power setpoint": {
+    "first": 1,
+    "last": 1,
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Reactive Power Setpoint Status": {
+    "first": 1,
+    "last": 1,
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Insulation Resistance": {
+    "first": 0.2,
+    "last": 0.2,
+    "min": 0.2,
+    "max": 0.2,
+    "mean": 0.2,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Apparent Power": {
+    "first": 323.4,
+    "last": 311.7,
+    "min": 311,
+    "max": 329,
+    "mean": 319.603673,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Time": {
+    "first": 123006,
+    "last": 124505,
+    "min": 123006,
+    "max": 124505,
+    "mean": 123738.016327,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Time until reconnection": {
+    "first": 0,
+    "last": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "Device type": {
+    "first": 3,
+    "last": 3,
+    "min": 3,
+    "max": 3,
+    "mean": 3,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "AC Voltage": {
+    "first": 266.1,
+    "last": 267.2,
+    "min": 265.9,
+    "max": 268.4,
+    "mean": 267.01619,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "PV Input Voltage": {
+    "first": 573.9,
+    "last": 579.6,
+    "min": 567.8,
+    "max": 586.6,
+    "mean": 579.734218,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  }
+}
