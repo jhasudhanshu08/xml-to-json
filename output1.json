@@ -1,0 +1,153 @@
+{
+  "id": "SCDIN1BJ:180802082",
+  "dailyEnergy": {
+    "first": 5046928.3,
+    "last": 5047008.1,
+    "min": 5046928.3,
+    "max": 5047008.1,
+    "mean": 5046968.269796,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "frequency": {
+    "first": 49.98,
+    "last": 49.96,
+    "min": 49.92,
+    "max": 50.06,
+    "mean": 49.985061,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "dailyRuntime": {
+    "first": 66007.31,
+    "last": 66007.56,
+    "min": 66007.31,
+    "max": 66007.56,
+    "mean": 66007.435741,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "outputCurrent": {
+    "first": 709,
+    "last": 679.6,
+    "min": 679.1,
+    "max": 721.1,
+    "mean": 698.054694,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "inputCurrent": {
+    "first": 592.6,
+    "last": 566.6,
+    "min": 558,
+    "max": 606.2,
+    "mean": 579.466939,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "status": {
+    "first": 1,
+    "last": 1,
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "error": {
+    "first": 0,
+    "last": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "activePower": {
+    "first": 323.4,
+    "last": 312.3,
+    "min": 311.1,
+    "max": 329.1,
+    "mean": 319.691633,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "powerFactor": {
+    "first": 1,
+    "last": 1,
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "inputPower": {
+    "first": 340,
+    "last": 328.3,
+    "min": 326.5,
+    "max": 345.9,
+    "mean": 335.877619,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "reactivePower": {
+    "first": 0.4,
+    "last": 0.3,
+    "min": -0.7,
+    "max": 1,
+    "mean": 0.383469,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "apparantPower": {
+    "first": 323.4,
+    "last": 311.7,
+    "min": 311,
+    "max": 329,
+    "mean": 319.603673,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "timestamp": {
+    "first": 123006,
+    "last": 124505,
+    "min": 123006,
+    "max": 124505,
+    "mean": 123738.016327,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "outputVoltage": {
+    "first": 266.1,
+    "last": 267.2,
+    "min": 265.9,
+    "max": 268.4,
+    "mean": 267.01619,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  },
+  "inputVoltage": {
+    "first": 573.9,
+    "last": 579.6,
+    "min": 567.8,
+    "max": 586.6,
+    "mean": 579.734218,
+    "base": 1470,
+    "period": 900,
+    "timestamp": "2024-05-17T12:45:00"
+  }
+}
